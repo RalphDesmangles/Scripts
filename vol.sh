@@ -13,7 +13,7 @@ wget http://downloads.volatilityfoundation.org/releases/2.6/volatility_2.6_lin64
 unzip volatility_2.6_lin64_standalone.zip
 rm volatility_2.6_lin64_standalone.zip
 
-mv volatility_2.6_lin64_standalone.zip volatility
+mv volatility_2.6_lin64_standalone volatility
 
 cd volatility
 mv volatility_2.6_lin64_standalone volatility_2.6
